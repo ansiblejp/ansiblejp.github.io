@@ -1,2 +1,2 @@
 # ansiblejp.github.io
-Ansiblejpに関する情報まとめ
+Ansibleユーザー会に関する情報をまとめるプロジェクト
