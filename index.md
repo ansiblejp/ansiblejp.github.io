@@ -1,4 +1,5 @@
 Title: [Ansibleユーザー会の情報まとめ]
+
 logo: [https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Wordmark-Large-RGB-Black.png?hsLang=en-us]
 
 ## Ansible ユーザー会とは
