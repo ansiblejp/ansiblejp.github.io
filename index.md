@@ -13,7 +13,7 @@ Ansibleユーザー会はAnsibleを使っている、もしくは興味のある
 
 ### Ansiblejp Slackユーザー Community
 日本のAnsibleユーザー、開発者などが会話をするコミュニティです。利用者が日頃持つ疑問点や、Tipsなどを共有しています。
-参加したい方は、[bit.ly/slack-ansiblejp](bit.ly/slack-ansiblejp)へアクセスしてください。
+参加したい方は、[bit.ly/slack-ansiblejp]へアクセスしてください。
 
 ### Ansible Night
 Ansible Night：3ヶ月に1回くらいの頻度で実施しています。
