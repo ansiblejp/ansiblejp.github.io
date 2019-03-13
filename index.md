@@ -11,7 +11,7 @@ Ansibleユーザー会はAnsibleを使っている、もしくは興味のある
 ### Twitter ハッシュタグ
 `#ansiblejp`でつぶやいている人が多いです。Ansible関係の勉強会や懇親会、ブログなどの活動をみんながシェアしています。
 
-### Ansibleｊｐ Slackユーザー Community
+### Ansiblejp Slackユーザー Community
 日本のAnsibleユーザー、開発者などが会話をするコミュニティです。利用者が日頃持つ疑問点や、Tipsなどを共有しています。
 参加したい方は、[bit.ly/slack-ansiblejp](bit.ly/slack-ansiblejp)へアクセスしてください。
 
