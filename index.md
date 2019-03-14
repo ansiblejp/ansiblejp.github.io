@@ -35,4 +35,4 @@ Ansible関係の他のユーザー会などをご紹介します。
 Ansibleコミュニティは以下の会社からサポートされています。（順不同）
 
 - [レッドハット株式会社](https://www.redhat.com/ja/explore/ansible)
-- 株式会社エーピーコミュニケーションズ
+- [株式会社エーピーコミュニケーションズ](https://www.ap-com.co.jp/)
