@@ -19,7 +19,7 @@ Ansibleユーザー会はAnsible(Ansible EngineやAnsible Tower, AWX）を使っ
 そのうちアップデートします・・。
 
 ### Twitter ハッシュタグ
-`#ansiblejp`でつぶやいている人が多いです。Ansible関係の勉強会や懇親会、ブログなどの活動をみんながシェアしています。
+[`#ansiblejp`](https://twitter.com/hashtag/ansiblejp)でつぶやいている人が多いです。Ansible関係の勉強会や懇親会、ブログなどの活動をみんながシェアしています。
 
 ### Ansiblejp Slackユーザー Community
 日本のAnsibleユーザー、開発者などが会話をするコミュニティです。利用者が日頃持つ疑問点や、Tips、セミナー情報などを共有しています。
