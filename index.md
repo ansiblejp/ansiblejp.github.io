@@ -16,11 +16,11 @@ Ansibleユーザー会はAnsible(Ansible EngineやAnsible Tower, AWX）を使っ
 
 ## 活動内容
 ### 運営メンバー
-- <img src="./images/fideleruuth.jpg" width="40px" height="40px"> [@fideleruuth](https://twitter.com/fideleruuth)
-- <img src="./images/sky_jokerxx.jpg" width="40px" height="40px"> [@sky_jokerxx](https://twitter.com/sky_jokerxx)
-- <img src="./images/maaaato.jpg" width="40px" height="40px"> [@maaaato](https://twitter.com/maaaato)
-- <img src="./images/paihu.png" width="40px" height="40px"> [@paihu](https://twitter.com/paihu)
-- <img src="./images/akira6592.png" width="40px" height="40px"> [akira6592](https://twitter.com/akira6592)
+- [<img src="./images/fideleruuth.jpg" width="40px" height="40px"> @fideleruuth](https://twitter.com/fideleruuth)
+- [<img src="./images/sky_jokerxx.jpg" width="40px" height="40px"> @sky_jokerxx](https://twitter.com/sky_jokerxx)
+- [<img src="./images/maaaato.jpg" width="40px" height="40px"> @maaaato](https://twitter.com/maaaato)
+- [<img src="./images/paihu.png" width="40px" height="40px"> @paihu](https://twitter.com/paihu)
+- [<img src="./images/akira6592.png" width="40px" height="40px"> akira6592](https://twitter.com/akira6592)
 
 ### Twitter ハッシュタグ
 [`#ansiblejp`](https://twitter.com/hashtag/ansiblejp)でつぶやいている人が多いです。Ansible関係の勉強会や懇親会、ブログなどの活動をみんながシェアしています。
