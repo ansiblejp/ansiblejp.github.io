@@ -16,7 +16,12 @@ Ansibleユーザー会はAnsible(Ansible EngineやAnsible Tower, AWX）を使っ
 
 ## 活動内容
 ### 運営メンバー
-そのうちアップデートします・・。
+
+- ![@fideleruuth](./images/fideleruuth.jpg)
+- ![@sky_jokerxx](./images/maaaato.jpg)
+- ![@maaaato](./images/maaaato.jpg)
+- ![@paihu](./images/paihu.png)
+- ![@akira6592](./images/akira6592.png)
 
 ### Twitter ハッシュタグ
 [`#ansiblejp`](https://twitter.com/hashtag/ansiblejp)でつぶやいている人が多いです。Ansible関係の勉強会や懇親会、ブログなどの活動をみんながシェアしています。
