@@ -23,7 +23,7 @@ Ansibleユーザー会はAnsible(Ansible EngineやAnsible Tower, AWX）を使っ
 
 ### Ansiblejp Slackユーザー Community
 日本のAnsibleユーザー、開発者などが会話をするコミュニティです。利用者が日頃持つ疑問点や、Tips、セミナー情報などを共有しています。
-参加したい方は、[こちら](https://bit.ly/slack-ansiblejp)へアクセスしてください。
+参加したい方は、[こちら](http://bit.ly/ansiblejp-slack)へアクセスしてください。
 参加したら、`#general`のチャンネルで自己紹介をしてみましょう！
 
 ### Ansible Night
