@@ -30,6 +30,18 @@ Ansibleユーザー会はAnsible(Ansible EngineやAnsible Tower, AWX）を使っ
 参加したい方は、[こちら](http://bit.ly/ansiblejp-slack)へアクセスしてください。
 参加したら、`#general`のチャンネルで自己紹介をしてみましょう！
 
+#### qaチャンネルについて
+Ansible SlackユーザーCommunityのqaチャンネルでは、Ansibleに関して、メンバーの方に質問を投げかけることができます。オープンにナレッジを蓄積するために、[Teratail](https://teratail.com/tags/Ansible)への質問の投稿を推奨しています。[Teratail](https://teratail.com/tags/Ansible)を活用することのメリットには以下のようなことが挙げられます。なお、Teratailでの質問はRSSによりSlackに投稿され、随時確認することが可能です。
+
+```
+- ansible のノウハウ共有で社会貢献
+- ansible に関係ないところで発生している問題でも質問できる
+- 過去の質問を検索しやすい
+- 質問のテンプレートが用意されている
+- markdown が slack より若干リッチ
+- 未解決/クローズのステータスが管理される
+```
+
 ### Ansible Night
 Ansible Night：3ヶ月に1回くらいの頻度で実施しています。地方イベントも開催しています。
 イベント情報は、Connpassの[Ansibleユーザー会のページ](https://ansible-users.connpass.com/)をご参照ください。メンバーになっているとイベントの通知が届きます。
