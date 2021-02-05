@@ -41,6 +41,9 @@ Ansible SlackユーザーCommunityのqaチャンネルでは、Ansibleに関し�
 - markdown が slack より若干リッチ
 - 未解決/クローズのステータスが管理される
 ```
+### Ansiblejp Discord
+現在はもくもく会（後述）のオンライン会場として利用しています。
+参加したしたい方は、[こちら](https://discord.gg/XBMCuKbR7r)へアクセスしてください。
 
 ### Ansible Night
 Ansible Night：3ヶ月に1回くらいの頻度で実施しています。地方イベントも開催しています。
